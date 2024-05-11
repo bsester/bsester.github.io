@@ -4,7 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="547ae940-c5f3-4af8-aee7-c41396acf9b9" name="Changes" comment="" />
+    <list default="true" id="547ae940-c5f3-4af8-aee7-c41396acf9b9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/my-portfolio/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/src/setupTests.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,24 +43,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ben/Documents/GitHub/Portfolio&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Ben/Documents/GitHub/Portfolio",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Ben\Documents\GitHub\Portfolio" />
@@ -62,6 +82,7 @@
       <workItem from="1701386893083" duration="594000" />
       <workItem from="1705289410150" duration="623000" />
       <workItem from="1715458312060" duration="122000" />
+      <workItem from="1715458501160" duration="304000" />
     </task>
     <servers />
   </component>
