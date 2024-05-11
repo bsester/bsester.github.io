@@ -23,6 +23,7 @@
       <change afterPath="$PROJECT_DIR$/my-portfolio/src/logo.svg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/my-portfolio/src/reportWebVitals.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/my-portfolio/src/setupTests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +32,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -82,7 +86,7 @@
       <workItem from="1701386893083" duration="594000" />
       <workItem from="1705289410150" duration="623000" />
       <workItem from="1715458312060" duration="122000" />
-      <workItem from="1715458501160" duration="304000" />
+      <workItem from="1715458501160" duration="448000" />
     </task>
     <servers />
   </component>
