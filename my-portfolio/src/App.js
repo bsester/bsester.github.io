@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   // Sample projects data
@@ -18,6 +19,14 @@ function App() {
       liveUrl: 'https://example.com/project2',
       githubUrl: 'https://github.com/yourusername/project2'
     },
+    {
+      title: 'Project 2',
+      description: 'Praesent laoreet feugiat orci, vitae lobortis sem vehicula in. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam ut magna a mi volutpat bibendum.',
+      imageUrl: 'https://via.placeholder.com/150',
+      liveUrl: 'https://example.com/project2',
+      githubUrl: 'https://github.com/yourusername/project2'
+      },
+
     // Add more projects as needed
   ];
 
@@ -34,7 +43,6 @@ function App() {
                   <img src={project.imageUrl} alt={project.title} />
                   <p>{project.description}</p>
                   <div className="project-links">
-                    <a href={project.liveUrl} target="_blank" rel="noopener noreferrer">Live Demo</a>
                     <a href={project.githubUrl} target="_blank" rel="noopener noreferrer">GitHub</a>
                   </div>
                 </div>
