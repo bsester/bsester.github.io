@@ -2,6 +2,7 @@ import React from 'react';
 import Projects from "./Projects";
 import {Link} from "react-router-dom";
 function Header() {
+    let img = 'https://cdn.discordapp.com/attachments/267020819505479680/1238608213541392454/Group_200.png?ex=66428a4a&is=664138ca&hm=557ce00df5c06ab5812a950217aac8662b2ccbd5951455dee1be56d110d8a66f&';
     return (
         <nav className="navbar navbar-expand-lg navbar-dark bg-dark static-top">
             <div className="container"><a className="navbar-brand" href="#"></a>
@@ -11,7 +12,7 @@ function Header() {
                 </button>
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul className="navbar-nav ms-auto">
-                        <li className="nav-item"><Link className="nav-link" to="/">Updated7</Link></li>
+                        <li className="nav-item"><Link className="nav-link" to="/">Home</Link></li>
                         <li className="nav-item"><Link className="nav-link" to="/aboutme">About Me</Link></li>
                         <li className="nav-item"><Link className="nav-link" to="/projects">Projects</Link></li>
                         <li className="nav-item"><Link className="nav-link" to="/education">Education</Link></li>
