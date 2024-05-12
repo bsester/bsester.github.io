@@ -4,10 +4,18 @@
     <meta charset="utf-8">
     <title>Redirecting...</title>
     <script>
-        window.location.href = '/index.html';
+        // Get the current URL path
+        const path = window.location.pathname;
+
+        // If the URL doesn't end with a slash, append "/index.html"
+        if (!path.endsWith('/')) {
+            window.location.href = path + '/index.html';
+        } else {
+            window.location.href = path + 'index.html';
+        }
     </script>
 </head>
 <body>
-    Redirecting...
+Redirecting...
 </body>
 </html>
