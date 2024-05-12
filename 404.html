@@ -5,13 +5,15 @@
     <title>Redirecting...</title>
     <script>
         // Get the current URL path
-        const path = window.location.pathname;
+        var path = window.location.pathname;
 
-        // If the URL doesn't end with a slash, append "/index.html"
-        if (!path.endsWith('/')) {
+        // Check if the URL already ends with "/index.html"
+        if (!path.endsWith('/index.html')) {
+            // If not, redirect to "/index.html"
             window.location.href = path + '/index.html';
         } else {
-            window.location.href = path + 'index.html';
+            // Otherwise, redirect to the base URL ("/")
+            window.location.href = "/";
         }
     </script>
 </head>
