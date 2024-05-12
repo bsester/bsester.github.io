@@ -3,7 +3,6 @@ import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
-  // Sample projects data
   const projects = [
     {
       title: 'Project Fringe',
