@@ -1,5 +1,6 @@
 import React from 'react';
 import Projects from "./Projects";
+import {Link} from "react-router-dom";
 function Header() {
     return (
         <nav className="navbar navbar-expand-lg navbar-dark bg-dark static-top">
@@ -10,10 +11,10 @@ function Header() {
                 </button>
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul className="navbar-nav ms-auto">
-                        <li className="nav-item"><a className="nav-link" href="/">Home</a></li>
-                        <li className="nav-item"><a className="nav-link" href="/aboutme">About Me</a></li>
-                        <li className="nav-item"><a className="nav-link" href="/projects">Projects</a></li>
-                        <li className="nav-item"><a className="nav-link" href="/education">Education</a></li>
+                        <li className="nav-item"><Link className="nav-link" to="/">Updated7</Link></li>
+                        <li className="nav-item"><Link className="nav-link" to="/aboutme">About Me</Link></li>
+                        <li className="nav-item"><Link className="nav-link" to="/projects">Projects</Link></li>
+                        <li className="nav-item"><Link className="nav-link" to="/education">Education</Link></li>
                     </ul>
                 </div>
             </div>

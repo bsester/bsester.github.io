@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="547ae940-c5f3-4af8-aee7-c41396acf9b9" name="Changes" comment="" />
+    <list default="true" id="547ae940-c5f3-4af8-aee7-c41396acf9b9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-portfolio/public/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-portfolio/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-portfolio/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-portfolio/src/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-portfolio/src/Header.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -38,6 +44,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -76,7 +83,7 @@
       <workItem from="1715458501160" duration="448000" />
       <workItem from="1715458976295" duration="4239000" />
       <workItem from="1715477313858" duration="1456000" />
-      <workItem from="1715550379805" duration="1907000" />
+      <workItem from="1715550379805" duration="4918000" />
     </task>
     <servers />
   </component>

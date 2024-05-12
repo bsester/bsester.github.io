@@ -7,21 +7,22 @@ import Projects from "./Projects";
 import AboutMe from "./AboutMe";
 import Education from "./Education";
 import Home from "./Home";
+import {HashRouter} from "react-router-dom";
 
 function App() {
 
 
   return (
       <div className="App">
-      <Header/>
-      <BrowserRouter>
+      <HashRouter>
+          <Header/>
           <Routes>
-              <Route path = '/' element={<Home/>}/>
+              <Route path = '/' exact element={<Home/>}/>
               <Route path = '/aboutme' element={<AboutMe/>}/>
               <Route path = '/projects' element={<Projects/>}/>
               <Route path = '/education' element = {<Education/>}/>
           </Routes>
-      </BrowserRouter>
+      </HashRouter>
       </div>
   );
 }
