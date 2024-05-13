@@ -36,12 +36,12 @@ function Projects() {
     return (
         <section id = "projects">
             {projects.map((project, index) => (
-                <div key={index} className="project">
+                <div key={index} className="container-md">
                     <h2>{project.title}</h2>
                     <img className={"projectImg"} src={project.imageUrl} alt={project.title} />
-                    <p>{project.description}</p>
+                    <div className="card"><p className="card-body">{project.description}</p></div>
                     <div className="project-links">
-                        <a href={project.githubUrl} target="_blank" rel="noopener noreferrer">GitHub</a>
+                        <a href={project.githubUrl} className="btn btn-primary" target="_blank" rel="noopener noreferrer">Github Repository</a>
                     </div>
                 </div>
             ))}
