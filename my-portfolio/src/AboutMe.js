@@ -28,7 +28,10 @@ function AboutMe(){
             <div className="card mt-3">
                 <div className="card-body">
                     <h3 className="card-title"> Interests </h3>
-                    <p className="card-text"> I have interests, such as these: ASDASDASDASDASDASDASDASDASD</p>
+                    <p className="card-text"> I love learning and creating new things and learning new technologies. Front end development using react with
+                    a node.js or firebase backend is a form of app development I have come to really enjoy. Additionally, my favorite programming language is C/C++.
+                    I value the granularity and control over memory management that they provide. When I am not programming, I like playing table top games with my friends,
+                    or listening to music. </p>
                 </div>
             </div>
         </div>
