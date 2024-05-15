@@ -1,10 +1,10 @@
 import React from "react";
 
 function Home(){
-    let img = 'https://cdn.discordapp.com/attachments/267020819505479680/1238608213541392454/Group_200.png?ex=66428a4a&is=664138ca&hm=557ce00df5c06ab5812a950217aac8662b2ccbd5951455dee1be56d110d8a66f&';
+    let img = 'https://imgur.com/7aGklTE';
     return <section id = "home">
         <div className="jumbotron">
-            <img src = {img} className="img-fluid" alt = 'banner image'></img>
+            <img src = '/banner.PNG' className="img-fluid" alt = 'banner'></img>
         </div>
         <div className="container-md">
             <div className="card m-3">

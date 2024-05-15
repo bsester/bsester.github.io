@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="547ae940-c5f3-4af8-aee7-c41396acf9b9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-portfolio/src/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-portfolio/src/Home.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +63,8 @@
       <recent name="C:\Users\Ben\Documents\GitHub\Portfolio" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ben\Documents\GitHub\Portfolio\my-portfolio\public" />
+      <recent name="C:\Users\Ben\Documents\GitHub\Portfolio\my-portfolio\public\public" />
       <recent name="C:\Users\Ben\Documents\GitHub\Portfolio" />
     </key>
   </component>
@@ -82,7 +85,8 @@
       <workItem from="1715477313858" duration="1456000" />
       <workItem from="1715550379805" duration="8871000" />
       <workItem from="1715560371215" duration="723000" />
-      <workItem from="1715643398608" duration="2711000" />
+      <workItem from="1715643398608" duration="2751000" />
+      <workItem from="1715798069848" duration="1514000" />
     </task>
     <servers />
   </component>
