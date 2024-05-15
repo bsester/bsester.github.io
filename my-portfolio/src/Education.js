@@ -24,7 +24,7 @@ function Education(){
             {educations.map((education, index) => (
                 <div key={index} className="container-md">
                     <h2>{education.name}</h2>
-                    <h3> {education.location}</h3>
+                    <h5> {education.location}</h5>
                     <img className={"projectImg"} src={education.logo} alt={education.name} />
                     <div className="card"><p className="card-body">{education.desc}</p></div>
                 </div>
