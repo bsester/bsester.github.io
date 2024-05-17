@@ -13,16 +13,26 @@ function AboutMe(){
             <div className="card mt-3">
                 <div className="card-body m-auto">
                     <h3 className="card-title"> Skills </h3>
-                    <ul className="list-unstyled">
-                        <li><span className="fw-bold">C/C++</span></li>
-                        <li><span className="fw-bold">Java</span></li>
-                        <li><span className="fw-bold">Firebase/Firestore</span></li>
-                        <li><span className="fw-bold">React js/React Native</span></li>
-                        <li><span className="fw-bold">Javascript</span></li>
-                        <li><span className="fw-bold">Node.js</span></li>
-                        <li><span className="fw-bold">Agile SDLC</span></li>
-                        <li><span className="fw-bold">Python</span></li>
-                    </ul>
+                    <div className="row row-cols-1 row-cols-md-2 g-lg-5">
+                        <div className="col">
+                            <ul className="list-unstyled">
+                                <li><span className="fw-bold no-wrap">C/C++</span></li>
+                                <li><span className="fw-bold no-wrap">Java</span></li>
+                                <li><span className="fw-bold no-wrap">Firebase/Firestore</span></li>
+                                <li><span className="fw-bold no-wrap">React js/React Native</span></li>
+                                <li><span className="fw-bold no-wrap">Javascript</span></li>
+                            </ul>
+                        </div>
+                        <div className="col">
+                            <ul className="list-unstyled">
+                                <li><span className="fw-bold no-wrap">Node.js</span></li>
+                                <li><span className="fw-bold no-wrap">Agile SDLC</span></li>
+                                <li><span className="fw-bold no-wrap">Python</span></li>
+                                <li><span className="fw-bold no-wrap">Jetbrains IDE</span></li>
+                                <li><span className="fw-bold no-wrap">mySQL</span></li>
+                            </ul>
+                        </div>
+                    </div>
                 </div>
             </div>
             <div className="card mt-3">
