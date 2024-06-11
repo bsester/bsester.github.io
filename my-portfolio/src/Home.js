@@ -15,7 +15,7 @@ function Home(){
                 <div className="card-body">
                     <h5 className="card-title">Connect with me!</h5>
                         <p className="card-text">
-                        Click the buttons below to see learn more.
+                        Click the buttons below to learn more.
                         </p>
                     <a
                         href="https://www.linkedin.com/in/bensester"
